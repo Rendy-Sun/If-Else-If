@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="studi_kasus_2/studi_kasus_2.vcxproj" Id="f0a9240c-b155-44ce-b708-53fb9e0d6370" />
+</Solution>

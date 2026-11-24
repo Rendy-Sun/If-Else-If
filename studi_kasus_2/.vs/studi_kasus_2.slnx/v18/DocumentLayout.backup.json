@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Project C\u002B\u002B\\Visual Studio\\studi_kasus_2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0A9240C-B155-44CE-B708-53FB9E0D6370}|studi_kasus_2\\studi_kasus_2.vcxproj|E:\\Project C\u002B\u002B\\Visual Studio\\studi_kasus_2\\studi_kasus_2\\studi_kasus_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F0A9240C-B155-44CE-B708-53FB9E0D6370}|studi_kasus_2\\studi_kasus_2.vcxproj|solutionrelative:studi_kasus_2\\studi_kasus_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "studi_kasus_2.cpp",
+              "DocumentMoniker": "E:\\Project C\u002B\u002B\\Visual Studio\\studi_kasus_2\\studi_kasus_2\\studi_kasus_2.cpp",
+              "RelativeDocumentMoniker": "studi_kasus_2\\studi_kasus_2.cpp",
+              "ToolTip": "E:\\Project C\u002B\u002B\\Visual Studio\\studi_kasus_2\\studi_kasus_2\\studi_kasus_2.cpp",
+              "RelativeToolTip": "studi_kasus_2\\studi_kasus_2.cpp",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-11-04T11:51:50.781Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
